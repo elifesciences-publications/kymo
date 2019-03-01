@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Volkov et al., "Multivalency of NDC80 in the outer kinetochore is essential to track shortening microtubules and generate forces". eLife, 2018. http://dx.doi.org/10.7554/eLife.36764
+
+
 # kymo
 matlab script to trace fluorescent particles in kymograph
 
